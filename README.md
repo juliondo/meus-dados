@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
+- 💻 Estudando desenvolvimento web
+
  <div>
   <a href="https://github.com/juliondo
 ">
