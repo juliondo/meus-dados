@@ -1,6 +1,7 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
 - 💻 Estudando desenvolvimento web
+- 🌱 Estou aprendendo atualmente ** ReactJs **
 
  <div>
   <a href="https://github.com/juliondo
