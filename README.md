@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+<h1 align="center">Olá, eu sou Júlio César Nascimento de Oliveira</h1>
 
 - 💻 Estudando desenvolvimento web
 - 🌱 Estou aprendendo atualmente ** ReactJs **
