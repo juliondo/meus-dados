@@ -2,6 +2,7 @@
 
 - 💻 Estudando desenvolvimento web
 - 🌱 Estou aprendendo atualmente ** ReactJs **
+- 💬 Me pergunte sobre **Html, Css, JavaScript, ReactJs e Git**
 
  <div>
   <a href="https://github.com/juliondo
