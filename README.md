@@ -1,8 +1,9 @@
 <h1 align="center">Olá, eu sou Júlio César Nascimento de Oliveira</h1>
 
 - 💻 Estudando desenvolvimento web
-- 🌱 Estou aprendendo atualmente ** ReactJs **
+- 🌱 Estou aprendendo atualmente ** dart e Flutter **
 - 💬 Me pergunte sobre **Html, Css, JavaScript, ReactJs e Git**
+- Meu LinkeDin: https://www.linkedin.com/in/julio-developer/
 
  <div>
   <a href="https://github.com/juliondo
